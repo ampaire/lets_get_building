@@ -15,13 +15,6 @@ Before starting you need to have prior knowledge on the following languages and 
 - Code editors like **Vscode** , **atom**
 
 
-## License
-
-All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
-is available jointly under the MIT License and the Beerware License. See
-[LICENSE.md](LICENSE.md) for details.
-
-
 ## Getting started
 
 - To get started with the app, clone this repository and install the gems used by running:
