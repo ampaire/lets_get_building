@@ -1,8 +1,7 @@
 # Sample
 
 This is the sample application for
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](https://www.railstutorial.org/)
+[*Ruby on Rails Tutorial:Learn Web Development with Rails*](https://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/). It was created in Ruby on rails
 
 
@@ -58,11 +57,19 @@ To run our tests for the application we use:
 $ rails test
 ```
 
-## Useful information
+## Resources
 
-For more information, checkout this amazing Ruby on rails book!
+
+For more information, checkout these amazing Ruby on rails books and tutorials!
 [Ruby on Rails](https://www.railstutorial.org/book).
+
+[*Ruby on Rails Tutorial:Learn Web Development with Rails*](https://www.railstutorial.org/)
+
+[Michael Hartl](http://www.michaelhartl.com/)
+
 
 
 ## Created by the amazing developer
+
+
 [Phemia Ampaire](https://github.com/ampaire)
