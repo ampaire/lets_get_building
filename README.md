@@ -5,6 +5,7 @@ This is the sample application for
 Learn Web Development with Rails*](https://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/). It was created in Ruby on rails
 
+
 ## Prerequisite
 Before starting you need to have prior knowledge on the following languages and tools
 
@@ -20,6 +21,7 @@ All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
 is available jointly under the MIT License and the Beerware License. See
 [LICENSE.md](LICENSE.md) for details.
 
+
 ## Getting started
 
 - To get started with the app, clone this repository and install the gems used by running:
@@ -34,6 +36,7 @@ $ bundle install --without production
 $ rails db:migrate
 ```
 
+
 ## Useful commands
 
 To start the server we run:
@@ -46,27 +49,27 @@ The results can be seen at the  [local Host Server](http://localhost:3000/)
 We then put the different routes for the simple application:
 
 
-            root    | static_pages#home
-            --------|----------------------
-            Home    | static_pages/home
-            --------|----------------------
-            About   | static_pages/about
-            --------|----------------------
-            Contact | static_pages/contact
-            --------|----------------------
-            Help    | static_pages/help
-            --------|----------------------
+                  root    | static_pages#home
+                  --------|----------------------
+                  Home    | static_pages/home
+                  --------|----------------------
+                  About   | static_pages/about
+                  --------|----------------------
+                  Contact | static_pages/contact
+                  --------|----------------------
+                  Help    | static_pages/help
+                  --------|----------------------
 
 To run our tests for the application we use:
 ```
 $ rails test
 ```
 
+## Useful information
+
+For more information, checkout this amazing Ruby on rails book!
+[Ruby on Rails](https://www.railstutorial.org/book).
 
 
-For more information, see the
-[*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
-
-
-## Created by
+## Created by the amazing developer
 [Phemia Ampaire](https://github.com/ampaire)
