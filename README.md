@@ -43,7 +43,9 @@ $ rails server
 ```
 The results can be seen at the  [local Host Server](http://localhost:3000/)
 
-We then put the different routes for the simple application
+We then put the different routes for the simple application:
+
+
             root    | static_pages#home
             --------|----------------------
             Home    | static_pages/home
