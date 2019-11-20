@@ -8,8 +8,8 @@ by [Michael Hartl](http://www.michaelhartl.com/). It was created in Ruby on rail
 ## Prerequisite
 Before starting you need to have prior knowledge on the following languages and tools
 
-- [Ruby](https://www.ruby-lang.org/en/documentation/)
-- [Ruby on Rails](https://guides.rubyonrails.org/)
+- [Ruby-v2.5.1](https://www.ruby-lang.org/en/documentation/)
+- [Ruby on Rails-v6.0.1](https://guides.rubyonrails.org/)
 - [Rspec](https://rspec.info/documentation/)
 - Code editors like **Vscode** , **atom**
 
@@ -41,7 +41,7 @@ The results can be seen at the  [local Host Server](http://localhost:3000/)
 We then put the different routes for the simple application:
 
 
-                  root    | static_pages#home
+                  root    | static_pages/home
                   --------|----------------------
                   Home    | static_pages/home
                   --------|----------------------
