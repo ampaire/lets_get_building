@@ -431,3 +431,87 @@ Processing by StaticPagesController#home as HTML
 Completed 200 OK in 120ms (Views: 117.5ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2019-11-21 15:58:21 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (961.5ms)
+Completed 200 OK in 1071ms (Views: 1054.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-11-21 15:58:25 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 81ms (Views: 79.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-11-21 16:02:42 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (8.9ms)
+Completed 200 OK in 10290ms (Views: 10287.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-11-21 16:05:17 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (12.4ms)
+Completed 200 OK in 4379ms (Views: 4376.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-11-21 16:07:00 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (11.5ms)
+Completed 200 OK in 4874ms (Views: 4871.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-11-21 16:08:48 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 4445ms (Views: 4442.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-11-21 16:09:14 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (10.1ms)
+Completed 200 OK in 134ms (Views: 131.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-11-21 16:11:05 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (9.7ms)
+Completed 200 OK in 4700ms (Views: 4697.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-11-21 16:11:44 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 4547ms (Views: 4543.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-11-21 16:12:17 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 4375ms (Views: 4372.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-11-21 16:12:33 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (8.6ms)
+Completed 200 OK in 4548ms (Views: 4544.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-11-21 16:13:04 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (8.7ms)
+Completed 200 OK in 4484ms (Views: 4480.9ms | ActiveRecord: 0.0ms)
+
+
