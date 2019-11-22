@@ -475,3 +475,14 @@ Migrating to AddIndexToUsersEmail (20191122222851)
   ↳ db/migrate/20191122222851_add_index_to_users_email.rb:5
   [1m[35m (0.2ms)[0m  [1m[31mrollback transaction[0m
   ↳ bin/rails:11
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:11
+Migrating to AddIndexToUsersEmail (20191122222851)
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:11
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ db/migrate/20191122222851_add_index_to_users_email.rb:5
+  [1m[35m (1.1ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_users_on_email" ON "users" ("email")[0m
+  ↳ db/migrate/20191122222851_add_index_to_users_email.rb:5
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  ↳ bin/rails:11
